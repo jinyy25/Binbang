@@ -5,7 +5,7 @@ Semi Project
 
 기능 : 회원가입, 로그인, 숙소예약, 마이페이지 (관심숙소) 
 
-사용된 기술 
+사용된 기술 :
 Java, JavaScript, Ajax, Jstl
 Mybatis, Oracle
 ,Git
