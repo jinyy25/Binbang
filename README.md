@@ -8,7 +8,7 @@ Semi Project
 사용된 기술 
 Java, JavaScript, Ajax, Jstl
 Mybatis, Oracle
-Git
+,Git
 
 인원: 5명
 
